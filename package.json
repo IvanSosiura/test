@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/IvanSosiura/test/issues"
   },
-  "homepage": "https://github.com/IvanSosiura/test#readme"
+  "homepage": "https://github.com/IvanSosiura/test#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  }
 }
